@@ -1,0 +1,31 @@
+.user-page {
+    padding: 2rem;
+}
+
+.user-info {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.user-info h1 {
+    color: #8e24aa;
+    font-size: 2rem;
+}
+
+.user-info p {
+    color: #555;
+    font-size: 1.2rem;
+}
+
+.status-list {
+    margin-top: 2rem;
+}
+
+.status-item {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem;
+}
+
+.status-item:last-child {
+    border-bottom: none;
+}
